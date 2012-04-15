@@ -15,4 +15,4 @@ This bash script (txt2dir.sh) turns a list of files into folders. It comes from 
 
 The following command takes in a list of files, places a number in ascending order in front, and adds a dash after the number.
 
-    sed = Filelist.txt | sed 'N;s/\n/-/' > sed.txt && ./txt2dir.sh sed.txt && rm sed.txt
+    sed = Filelist.txt | sed 'N;s/\n/-/' > sed.txt && ./txt2dir.sh sed.txt && rm sed.txt 
