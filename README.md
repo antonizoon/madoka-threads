@@ -1,5 +1,7 @@
 This is part of the Bibliotheca Anonoma's initiative to save all the Madoka threads from /a/ into a Madoka Crate (#5) for eventual archival in the Internet Archive.
 
+When saving, please follow the thread hierarchy. See "Anime/General Threads/Episode 1" for a good example of how pages are saved.
+
 For more information, [see this page](http://wiki.puella-magi.net/Madoka_Crate).
 
 ## Helpful scripts
